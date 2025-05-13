@@ -1,0 +1,15 @@
+{
+  "name": "ssologin",
+  "version": "1.0.0",
+  "description": "Login to postech SSO",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "src/SSOLogin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-html-parser": "^7.0.1"
+  }
+}
